@@ -6,5 +6,5 @@ To receive an official support on Minecraft pluigns, please submit a support tic
 ### [maven-repository](http://teamvk.github.io/maven-repository)
 
 ## Plugins
-### [TokenEnchant](http://teamvk.github.io/TokenEnchant)
-### [TokenEnchantAPI](http://teamvk.github.io/TokenEnchantAPI)
+### [TokenEnchant](https://teamvk.github.io/TokenEnchant)
+### [TokenEnchantAPI](https://teamvk.github.io/TokenEnchantAPI/)
