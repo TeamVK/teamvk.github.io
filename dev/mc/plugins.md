@@ -9,7 +9,9 @@ To receive an official support on Minecraft pluigns, please submit a support tic
 ### [TokenEnchantAPI](http://teamvk.github.io/TokenEnchantAPI/)
 ### [AutoSellAPI](http://teamvk.github.io/AutoSellAPI/)
 
-## [Custom Enchantments](http:/teamvk.github.io/CustomEnchantment)
+## Custom Enchantments
+### [Custom Enchantments by TeamVK](http://teamvk.github.io/CustomEnchantment/teamvk/)
+### [Custom Enchantments by others](http://teamvk.github.io/CustomEnchantment/others/)
 
 ## Plugins
 ### [TokenEnchant](http://teamvk.github.io/TokenEnchant)
