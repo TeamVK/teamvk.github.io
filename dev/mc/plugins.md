@@ -5,6 +5,9 @@ To receive an official support on Minecraft pluigns, please submit a support tic
 ## Repository
 ### [maven-repository](http://teamvk.github.io/maven-repository)
 
+## Plugin APIs
+### [TokenEnchantAPI](http://teamvk.github.io/TokenEnchantAPI/)
+### [AutoSellAPI](http://teamvk.github.io/AutoSellAPI/)
+
 ## Plugins
 ### [TokenEnchant](http://teamvk.github.io/TokenEnchant)
-### [TokenEnchantAPI](http://teamvk.github.io/TokenEnchantAPI/)
