@@ -7,6 +7,7 @@ To receive an official support on Minecraft pluigns, please submit a support tic
 
 ## Plugin APIs
 ### [TokenEnchantAPI](http://teamvk.github.io/TokenEnchantAPI/)
+### [MergedSpawnerAPI](http://teamvk.github.io/MergedSpawnerAPI/)
 ### [AutoSellAPI](http://teamvk.github.io/AutoSellAPI/)
 
 ## Custom Enchantments
