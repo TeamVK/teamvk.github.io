@@ -17,3 +17,4 @@ To receive an official support on Minecraft pluigns, please submit a support tic
 ## Plugins
 ### [TokenEnchant](http://teamvk.github.io/TokenEnchant)
 ### [MaxStack](http://teamvk.github.io/MaxStack)
+### [PlayerVaultsX-VK](https://github.com/TeamVK/PlayerVaultsX-VK)
